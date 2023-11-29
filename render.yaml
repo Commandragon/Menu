@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: Soundboard
+    name: Menu
     env: static
     staticPublishPath: .
