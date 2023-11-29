@@ -92,7 +92,7 @@
 
 
   function openB() {
-  var url = "https://eat.marcosruben.com/";
+  var url = "/beta.html";
   if (window.self === window.top && url) {
     var win = window.open();
     win.document.body.style.margin = '0';
